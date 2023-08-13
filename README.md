@@ -9,7 +9,9 @@ Nozzle set base + upper
 
 # RB_Direct_Extruder (RBDE)
 RB_nozzle set for Delta Square (delta) 3D printer (Bowden/Direct)
+
 ![image](https://github.com/rollybot/RB_Nozzle_set/assets/5675424/86e9bdcc-be1b-4a49-870a-58068984af81)
+Assembled view
 
 ![image](https://github.com/rollybot/RB_Nozzle_set/assets/5675424/d237bad5-21d0-4c04-ab97-f1a5cee6c2d8)
 
